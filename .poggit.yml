@@ -9,6 +9,5 @@ projects:
     fullGzip: 9
     libs:
       - src: Falkirks/spoondetector/spoondetector
-      - src: poggit/libasynql/libasynql
       - src: muqsit/invmenu/invmenu
 ...
